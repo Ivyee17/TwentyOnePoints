@@ -1,0 +1,7 @@
+
+Rsquid:S2209A"5Change this instance-reference to a static reference.(áú‰8£©ˆÈì,
+Hsquid:S1948	"*Make "gameRoom" transient or serializable.(¿ùƒ8£©ˆÈì,
+Psquid:S1948"-Make "backPicture" transient or serializable.(½âƒŸşÿÿÿÿ8£©ˆÈì,
+Xsquid:S11614":Add the "@Override" annotation above this method signature(³ıŸê8£©ˆÈì,
+wsquid:S1450"TRemove the "money" field and declare it as a local variable in the relevant methods.(íœªüıÿÿÿÿ8£©ˆÈì,
+]squid:S1161R":Add the "@Override" annotation above this method signature(ú›Šøøÿÿÿÿ8£©ˆÈì,

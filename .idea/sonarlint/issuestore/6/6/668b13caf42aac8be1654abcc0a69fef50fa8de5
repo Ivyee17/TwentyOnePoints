@@ -1,0 +1,19 @@
+
+Usquid:S1153Ä"1Directly append the argument of String.valueOf().(®Ûû±ûÿÿÿÿ8°•ƒÈì,
+Psquid:S1948"-Make "backPicture" transient or serializable.(½âƒŸşÿÿÿÿ8°•ƒÈì,
+Hsquid:S1948"*Make "gameRoom" transient or serializable.(¿ùƒ8°•ƒÈì,
+jsquid:CommentedOutCodeLineÛ"<This block of commented-out lines of code should be removed.(­Ï“8çÓÆÉì,
+Ysquid:S1161":Add the "@Override" annotation above this method signature(³ıŸê8°•ƒÈì,
+:squid:S3626¯"Remove this redundant jump.(ûÁİ…8ñ¶Èì,
+lsquid:S1192…"HDefine a constant instead of duplicating this literal "money: " 6 times.(®Ûû±ûÿÿÿÿ8°•ƒÈì,
+Psquid:S1153ê"1Directly append the argument of String.valueOf().(Å¨ş8°•ƒÈì,
+Tsquid:S2209"5Change this instance-reference to a static reference.(œòŸŒ8°•ƒÈì,
+Psquid:S1153Ä"1Directly append the argument of String.valueOf().(Å¨ş8°•ƒÈì,
+Usquid:S1153Á"1Directly append the argument of String.valueOf().(Ö´½âúÿÿÿÿ8°•ƒÈì,
+qsquid:S3776”"RRefactor this method to reduce its Cognitive Complexity from 39 to the 15 allowed.(ßêÉİ8°•ƒÈì,
+Ysquid:S2209®"5Change this instance-reference to a static reference.(ğ„·Éùÿÿÿÿ8¤ø›Èì,
+Ysquid:S2209£"5Change this instance-reference to a static reference.(‘µ›”şÿÿÿÿ8°•ƒÈì,
+Usquid:S1153ö"1Directly append the argument of String.valueOf().(İ¹€ıÿÿÿÿ8°•ƒÈì,
+Ysquid:S2209Ü"5Change this instance-reference to a static reference.(­ÛÌ†ùÿÿÿÿ8°•ƒÈì,
+Usquid:S1153…"1Directly append the argument of String.valueOf().(®Ûû±ûÿÿÿÿ8°•ƒÈì,
+Usquid:S1153ñ"1Directly append the argument of String.valueOf().(®Ûû±ûÿÿÿÿ8°•ƒÈì,

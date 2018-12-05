@@ -1,0 +1,11 @@
+
+lsquid:MaximumInheritanceDepth"<This class has 6 parents which is greater than 5 authorized.(ĞÿîÜ8µ‰Èì,
+Ssquid:S22099"5Change this instance-reference to a static reference.(Ç÷ô8 É¢Éì,
+Ssquid:S2209G"5Change this instance-reference to a static reference.(»—¢8üò¢Éì,
+psquid:S37763"RRefactor this method to reduce its Cognitive Complexity from 16 to the 15 allowed.(ßêÉİ8üò¢Éì,
+[squid:S1854Q"8Remove this useless assignment to local variable "back".(«¨ÄÃûÿÿÿÿ8¤ª¥Éì,
+Xsquid:S2209?"5Change this instance-reference to a static reference.(ŸĞ°şÿÿÿÿ8üò¢Éì,
+Lsquid:S1481Q")Remove this unused "back" local variable.(«¨ÄÃûÿÿÿÿ8¤ª¥Éì,
+Hsquid:S1948"*Make "gameRoom" transient or serializable.(¿ùƒ8ñúÉì,
+9squid:S3626:"Remove this redundant jump.(ûÁİ…8üò¢Éì,
+asquid:S1155F">Use isEmpty() to check whether the collection is empty or not.(û„€àüÿÿÿÿ8ñúÉì,

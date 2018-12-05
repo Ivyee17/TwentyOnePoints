@@ -1,0 +1,6 @@
+
+Fsquid:S1148U"#Use a logger to log this exception.(Ä…‘Ö˝ˇˇˇˇ8±ΩÇ»Ï,
+_squid:UselessImportCheck"4Remove this unused import 'java.util.logging.Level'.(Öµ€∂8±ΩÇ»Ï,
+`squid:UselessImportCheck"5Remove this unused import 'java.util.logging.Logger'.(É•Ûö8±ΩÇ»Ï,
+Ssquid:S1191"5Use classes from the Java API instead of Sun classes.(€÷†¢8±ΩÇ»Ï,
+[squid:UselessImportCheck"0Remove this unused import 'sun.rmi.runtime.Log'.(€÷†¢8±ΩÇ»Ï,
